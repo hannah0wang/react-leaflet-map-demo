@@ -1,2 +1,2 @@
 # react-leaflet-map-demo
-Created with CodeSandbox
+Map visualization of greater Seattle area using React Leaflet
